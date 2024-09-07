@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+/* https://fullstack.edu.vn/htmlcss/discussions/cho-e-hoi-tai-sao-phai-de-font-size-625-vay-a */
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+    font-family: "Poppins";
+}
